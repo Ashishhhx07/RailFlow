@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RailFlow - Book Ticket</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 40px; }
+    input, button { padding: 10px; margin: 10px; width: 200px; }
+  </style>
+</head>
+<body>
+  <h1>🎫 RailFlow Ticket Generator</h1>
+  <form action="/generate_ticket" method="POST">
+    <input type="text" name="name" placeholder="Your Name" required><br>
+    <input type="text" name="from" placeholder="From Station" required><br>
+    <input type="text" name="to" placeholder="To Station" required><br>
+    <input type="date" name="date" required><br>
+    <button type="submit">Generate QR Ticket</button>
+  </form>
+  <p><a href="/crowd_status">🔍 View Crowd Status</a></p>
+</body>
+</html>

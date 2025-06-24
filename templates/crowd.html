@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Crowd Status - RailFlow</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 30px; }
+    table { margin: 20px auto; border-collapse: collapse; }
+    th, td { padding: 10px 20px; border: 1px solid #ddd; }
+  </style>
+</head>
+<body>
+  <h1>🚦 Crowd Density at Stations</h1>
+  <table>
+    <tr><th>Station</th><th>Passengers Today</th></tr>
+    {% for station, count in data.items() %}
+      <tr>
+        <td>{{ station }}</td>
+        <td>{{ count }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+  <a href=\"/\">⬅️ Back to Ticket Generator</a>
+</body>
+</html>
