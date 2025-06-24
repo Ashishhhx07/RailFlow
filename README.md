@@ -1,17 +1,13 @@
----
-
-## 👨‍💻 About the Developer
+## 👤 About the Developer
 <img src="ashish.jpg" alt="Ashish Ranjan" width="180" style="border-radius: 10px;" />
-
 
 ### Ashish Ranjan
 
 🚀 Solo developer of the RailFlow Project  
 🎯 Specialization: QR-Based Ticketing & Crowd Management  
 💡 “I believe in building simple tech that solves real-world public problems.”  
-
 🔗 GitHub: [Ashishhhx07](https://github.com/Ashishhhx07)  
-📅 Submitted for: RailHack 2025  
+🗓️ Submitted for: RailHack 2025  
 
 # 🚆 RailFlow – QR Ticketing & Crowd Management
 
