@@ -23,6 +23,15 @@ RailFlow is a smart ticketing system built for RailHack 2025. It uses QR codes t
 
 ---
 
+## 📸 Screenshots
+
+### 🎫 QR Ticket
+![QR Ticket](./screenshots/qr_ticket.png)
+
+### 📊 Crowd Status Page
+![Crowd Status](./screenshots/crowd_status.png)
+
+
 ### 🚀 How to Run Locally
 
 1. Clone or Download the repo  
