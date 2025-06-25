@@ -1,13 +1,30 @@
-## 👤 About the Developer
+## 👤 About Developer
 <img src="ashish.jpg" alt="Ashish Ranjan" width="180" style="border-radius: 10px;" />
+<img src="sagar.jpg" alt="Sagar Kumar Singh" width="180" style="border-radius: 10px;" />
 
 ### Ashish Ranjan
 
-🚀 Solo developer of the RailFlow Project  
+🚀 Duo developer of the RailFlow Project  
 🎯 Specialization: QR-Based Ticketing & Crowd Management  
 💡 “I believe in building simple tech that solves real-world public problems.”  
 🔗 GitHub: [Ashishhhx07](https://github.com/Ashishhhx07)  
-🗓️ Submitted for: RailHack 2025  
+🗓️ Submitted for: RailHack 2025
+
+### Sagar Kumar Singh
+
+🚀 UI Reviewer & Presentation Assistant  
+💡 Contributed by reviewing the UI design, assisting in demo/pitch prep, and research support.
+
+---
+
+## 👥 Team
+
+- **Ashish Ranjan** – Full-Stack Developer  
+  Built the entire RailFlow system from scratch including backend, frontend, and data logic.
+
+- **Sagar Kumar Singh** – UI Reviewer & Presentation Assistant  
+  Contributed by reviewing the UI design, assisting in demo/pitch prep, and research support.
+
 
 # 🚆 RailFlow – QR Ticketing & Crowd Management
 
